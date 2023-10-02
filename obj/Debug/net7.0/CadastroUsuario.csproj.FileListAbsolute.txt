@@ -1,0 +1,14 @@
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\bin\Debug\net7.0\CadastroUsuario.exe
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\bin\Debug\net7.0\CadastroUsuario.deps.json
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\bin\Debug\net7.0\CadastroUsuario.runtimeconfig.json
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\bin\Debug\net7.0\CadastroUsuario.dll
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\bin\Debug\net7.0\CadastroUsuario.pdb
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.AssemblyInfoInputs.cache
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.AssemblyInfo.cs
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.dll
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\refint\CadastroUsuario.dll
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.pdb
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\CadastroUsuario.genruntimeconfig.cache
+C:\Users\gonca\Desktop\Danielle\LTP3\Cadastro de Usuário\CadastroUsuarioConsole\CadastroUsuario\obj\Debug\net7.0\ref\CadastroUsuario.dll
