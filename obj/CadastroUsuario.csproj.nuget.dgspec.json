@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonca\\Desktop\\Danielle\\LTP3\\Cadastro de Usuário\\CadastroUsuarioConsole\\CadastroUsuario\\CadastroUsuario.csproj": {}
+    "C:\\Users\\SECRETARIA 01\\Desktop\\Danielle 2022\\Danielle 2023\\LTP3\\cadastro_ltp3\\CadastroUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonca\\Desktop\\Danielle\\LTP3\\Cadastro de Usuário\\CadastroUsuarioConsole\\CadastroUsuario\\CadastroUsuario.csproj": {
+    "C:\\Users\\SECRETARIA 01\\Desktop\\Danielle 2022\\Danielle 2023\\LTP3\\cadastro_ltp3\\CadastroUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonca\\Desktop\\Danielle\\LTP3\\Cadastro de Usuário\\CadastroUsuarioConsole\\CadastroUsuario\\CadastroUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\SECRETARIA 01\\Desktop\\Danielle 2022\\Danielle 2023\\LTP3\\cadastro_ltp3\\CadastroUsuario.csproj",
         "projectName": "CadastroUsuario",
-        "projectPath": "C:\\Users\\gonca\\Desktop\\Danielle\\LTP3\\Cadastro de Usuário\\CadastroUsuarioConsole\\CadastroUsuario\\CadastroUsuario.csproj",
-        "packagesPath": "C:\\Users\\gonca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonca\\Desktop\\Danielle\\LTP3\\Cadastro de Usuário\\CadastroUsuarioConsole\\CadastroUsuario\\obj\\",
+        "projectPath": "C:\\Users\\SECRETARIA 01\\Desktop\\Danielle 2022\\Danielle 2023\\LTP3\\cadastro_ltp3\\CadastroUsuario.csproj",
+        "packagesPath": "C:\\Users\\SECRETARIA 01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SECRETARIA 01\\Desktop\\Danielle 2022\\Danielle 2023\\LTP3\\cadastro_ltp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gonca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SECRETARIA 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
