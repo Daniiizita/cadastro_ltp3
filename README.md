@@ -30,7 +30,6 @@ O UserCRUD Console System é um projeto em C# que visa simplificar o processo de
 ## Requisitos
 
 - .NET 5.0 ou superior
-- SQLite
 
 ## Licença
 
