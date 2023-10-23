@@ -6,7 +6,7 @@ O UserCRUD Console System é um projeto em C# que visa simplificar o processo de
 
 ## Integrantes do Grupo
 
-- Danielle "Dani" de Paula
+- Danielle de Paula
 - Thiago Felix
 - Lucas Diogo
 - Alan Matheus
