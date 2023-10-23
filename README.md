@@ -34,4 +34,4 @@ O UserCRUD Console System é um projeto em C# que visa simplificar o processo de
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE) para mais detalhes.
